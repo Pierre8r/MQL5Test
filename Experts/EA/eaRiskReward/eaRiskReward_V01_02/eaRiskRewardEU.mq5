@@ -12,8 +12,8 @@
 #include "CeaRiskReward.mqh"
 
 int _MagicNumber=2015;
-extern int exTakeProfitInPips=1000;
-extern int exStopLossInPips=1000;
+extern int exTakeProfitInPips=100;
+extern int exStopLossInPips=100;
 double _NumberOfLotsToOpen=1;
 datetime _Duration=D'2017.10.17 17:01:00';
 
