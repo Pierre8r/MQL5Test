@@ -15,7 +15,7 @@ int _MagicNumber=2015;
 extern int exTakeProfitInPips=100;
 extern int exStopLossInPips=100;
 double _NumberOfLotsToOpen=1;
-datetime _Duration=D'2017.10.17 17:01:00';
+datetime _Durationrr=D'2017.10.17 17:01:00';
 
 //+------------------------------------------------------------------+
 //| Global expert object                                             |
